@@ -1,0 +1,124 @@
+#title{
+    background-color: #ff4c68;
+    color: #Fff;
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.5rem !important;
+    line-height: 4.5rem !important;
+    padding-bottom: 2rem !important;
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+#total{
+    padding: 3% 15% 7%!important;
+}
+.navbar{
+    padding-bottom: 4.375rem !important;
+}
+.navbar-brand{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 3rem !important;
+    font-weight: bold;
+}
+.nav-item{
+    padding: 0 18px !important;
+}
+.nav-link{
+    font-size: 1.2rem !important;
+}
+.phone{
+    width: 20% !important;
+    transform: rotate(25deg);
+    position: absolute !important;
+    right: 24%;
+}
+#features{
+    padding: 7% 15% !important;
+}
+.features-box{
+    text-align: center;
+    padding: 5%;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+}
+p{
+    color: #8f8f8f;
+}
+.icon{
+    color: #ef8172;
+    margin-bottom: 2rem;
+}
+.icon:hover{
+    color: #ff4c68;
+}
+#testimonials{
+    text-align: center;
+    background-color: #ef8172;
+    color: #fff;
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem !important;
+    line-height: 1.5 !important;
+}
+.testimonial-image{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+#press{
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+}
+.press-logo{
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+#pricing{
+    padding: 100px;
+    text-align: center;
+}
+.pricing-column{
+    padding: 3% 2%;
+}
+#features{
+    background-color: white;
+    position: relative !important;
+    /* z-index: 1 !important; */
+}
+@media (max-width:1028px){
+    .phone{
+        position: static;
+        transform: rotate(0);
+    }
+    #title{
+        text-align: center;
+    }
+}
+#cta{
+    background-color: #ff4c68;
+    color: #Fff;
+    text-align: center;
+    padding: 7% 15%;
+}
+.cta-heading{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+}
+.download{
+    margin: 3% 5%;
+}
+#footer{
+    padding: 7% 15%;
+    text-align: center;
+}
+.social{
+    margin: 20px 10px;
+}
